@@ -1,4 +1,6 @@
 data/survey_results_public.csv
+data/
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
