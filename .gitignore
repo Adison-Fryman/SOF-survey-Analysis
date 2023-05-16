@@ -1,4 +1,5 @@
 data/survey_results_public.csv
+*.csv
 data/
 data
 git
